@@ -1,7 +1,7 @@
 # Early Sepsis Diagnosis with Machine Learning
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a312d1bb-32e9-4ffa-b625-a00f202c5fb4" alt="image" />
+  <img width="475" alt="image" src="https://github.com/user-attachments/assets/bea5836c-3b66-40f0-b3d1-098c88cc3bef" />
 </p>
 
 ## Overview
